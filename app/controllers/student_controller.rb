@@ -1,5 +1,5 @@
 class StudentsController < ApplicationController
   def index
-    @students = Sudent.all
+    @students = Student.all
   end
 end

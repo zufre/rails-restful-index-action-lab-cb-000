@@ -1,3 +1,3 @@
-class student
+class student <ApplicationController
 
 end
